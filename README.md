@@ -1,13 +1,9 @@
 <h1>
   <div align="center">
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
-     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
           Ichiro Daichi
-    <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
   </div>   
 </h1>
-
-                                                                                                   
 <div>
   <h2>🛠Languages and Tools :</h2>
 </div>
