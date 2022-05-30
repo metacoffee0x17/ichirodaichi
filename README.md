@@ -4,7 +4,6 @@
      <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
           Ichiro Daichi
     <img src="https://media.giphy.com/media/xHwDPt2kFONpKI8Rfw/giphy.gif" width="70px height="70px"/><br/>
-        BlockChain Developer
   </div>   
 </h1>
 
