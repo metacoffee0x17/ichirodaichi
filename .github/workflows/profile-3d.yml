@@ -11,8 +11,6 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: 'main'
       - uses: ichirodaichi/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
