@@ -1,7 +1,7 @@
 <h1>
   <div align="center">
     <div align="center">
-            Ichiro Daichi
+            Ichiro Daichi<br />
         BlockChain & Web & Mobile Developer
      </div>
     <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
